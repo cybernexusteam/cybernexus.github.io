@@ -1,2 +1,4 @@
-url: https://mythocypat.github.io 
-theme: cayman
+url: https://mythocypat.github.io # my website URL
+
+markdown: w3 # markdown used in building website
+theme: cayman # theme!
