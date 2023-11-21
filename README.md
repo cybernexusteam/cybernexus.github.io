@@ -8,29 +8,7 @@
     </head>
     <body> 
           
-        <!-- NavBar (sit on top)-->
-        <div class="AP-top">
-            <div class="AP-bar AP-white AP-wide AP-padding AP-card">
-                <a href="#home" class="w3-bar-item w3-button"><b></b>T.H.I.C.C</a>
-                <a href="#news">News</a>
-                <a href="#contact">Contact</a>
-                <a href="#about">About</a>
-                 <!-- Float links to the right. Hide them on small screens -->
-            <!-- <div class="w3-right w3-hide-small">
-                <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-                <a href="#about" class="w3-bar-item w3-button">About</a>
-                <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-            </div> -->
-        </div>
-    </div>
 
-    <!-- Header -->
-    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-      <img class="w3-image" src="cybersecurity-03-pic-web.jpg" alt="CyberSecurity" width="1500" height="800">
-      <div class="w3-display-middle w3-margin-top w3-center">
-        <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>T.H.I.C.C</b></span> <span class="w3-hide-small w3-text-light-grey">The Highly Intelligent Cyber Community</span></h1>
-      </div>
-    </header>
 
   <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
